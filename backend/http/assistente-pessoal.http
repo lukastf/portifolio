@@ -1,0 +1,8 @@
+
+POST https://lukastf.app.n8n.cloud/webhook/assistente-pessoal
+Content-Type: application/json
+
+{
+    "chatId": "12345678",
+    "mensagem": "você trabalha com React Native?"
+}
